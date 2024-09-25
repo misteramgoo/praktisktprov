@@ -9,7 +9,7 @@ for num in input("Ange siffror separerade med mellanslag: ").split():
             for i in range(1, 11):
                 print(f"{num} * {i} = {num * i}")
         else:
-            print("Fel: Ange endast siffror separerade med mellanslag.a")
+            print("Fel: Ange endast siffror separerade med mellanslag")
 print("\nProgram avslutat.")
 
 
